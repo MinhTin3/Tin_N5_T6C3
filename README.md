@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tins</h1>
 <h3 align="center">I am a third-year student, studying at the University of Information and Foreign Languages in Ho Chi Minh City</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tins3324&label=Profile%20views&color=0e75b6&style=flat" alt="tins3324" /> </p>
+<a align="left"> <img src="https://komarev.com/ghpvc/?username=tins3324&label=Profile%20views&color=0e75b6&style=flat" alt="tins3324" /> </a>
 ---
 
 - 🌱 I’m currently learning **Frameworks, NestJS**
