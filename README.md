@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tins</h1>
 <h3 align="center">I am a third-year student, studying at the University of Information and Foreign Languages in Ho Chi Minh City</h3>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
-
 ---
 
 - 🌱 I’m currently learning **Frameworks, NestJS**
@@ -81,4 +77,6 @@
 <h3 align="left">Thank You!</h3>
 <p align="left">Thank you for taking the time to view my profile! If you have any questions or want to connect, feel free to reach out. I appreciate your support!</p>
 
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
