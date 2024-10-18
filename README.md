@@ -17,7 +17,7 @@
 <a href="https://fb.com/tin.lu.9655" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tin.lu.9655" height="30" width="40" /></a>
 <a href="https://instagram.com/mtins33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mtins33" height="30" width="40" /></a>
 <a href="https://discord.com/users/tins3324" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
+    <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord" height="30" width="40" />
 </a>
 </p>
 
