@@ -76,7 +76,3 @@
 
 <h3 align="left">Thank You!</h3>
 <p align="left">Thank you for taking the time to view my profile! If you have any questions or want to connect, feel free to reach out. I appreciate your support!</p>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
