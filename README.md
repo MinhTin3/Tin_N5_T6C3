@@ -28,4 +28,21 @@
 <h3 align="left">Thank You!</h3>
 <p align="left">Thank you for taking the time to view my profile! If you have any questions or want to connect, feel free to reach out. I appreciate your support!</p>
 
+<style>
+  .thank-you {
+    text-align: left;
+    margin-top: 20px;
+    padding: 10px;
+    border: 2px solid #4CAF50;
+    border-radius: 8px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+  }
+  
+  .thank-you:hover {
+    background-color: #f9f9f9;
+    transform: scale(1.02);
+  }
+</style>
+
+
 
