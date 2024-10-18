@@ -1,26 +1,24 @@
 <h1 align="center">Hi 👋, I'm Tins</h1>
 <h3 align="center">I am a third-year student, studying at the University of Information and Foreign Languages in Ho Chi Minh City</h3>
 
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=tins3324&label=Profile%20views&color=0e75b6&style=flat" alt="tins3324" /> </div>
-
----
+<div align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=tins3324&label=Profile%20views&color=0e75b6&style=flat" alt="tins3324" /> 
+</div>
 
 - 🌱 I’m currently learning **Frameworks, NestJS**
-
-- 💬 Ask me about **React, MySQL, Nodejs, JavaScript**
-
+- 💬 Ask me about **React, MySQL, Node.js, JavaScript**
 - 📫 Contact me: **lutin651@gmail.com**
 
 ---
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/tín-lữ-a37732322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tín-lữ-a37732322" height="30" width="40" /></a>
-<a href="https://fb.com/tin.lu.9655" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tin.lu.9655" height="30" width="40" /></a>
-<a href="https://instagram.com/mtins33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mtins33" height="30" width="40" /></a>
-<a href="https://discord.com/users/tins3324" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-</a>
+  <a href="https://linkedin.com/in/tín-lữ-a37732322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tín-lữ-a37732322" height="30" width="40" /></a>
+  <a href="https://fb.com/tin.lu.9655" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tin.lu.9655" height="30" width="40" /></a>
+  <a href="https://instagram.com/mtins33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mtins33" height="30" width="40" /></a>
+  <a href="https://discord.com/users/tins3324" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+  </a>
 </p>
 
 ---
