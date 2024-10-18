@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React, MySQL, Nodejs, JavaScript**
 
-- 📫 How to contact me **lutin651@gmail.com**
+- 📫 Contact me: **lutin651@gmail.com**
 
 ---
 
